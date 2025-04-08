@@ -1,0 +1,11 @@
+prefix=/Users/ankita/Documents/Udemy/Complete_ML_Bootcamp/Complete-Data-Science-With-Machine-Learning-And-NLP-2024-main/ML_Ankita_Practice/autogen_project/venv
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+toolexeclibdir=${libdir}
+includedir=/Users/ankita/Documents/Udemy/Complete_ML_Bootcamp/Complete-Data-Science-With-Machine-Learning-And-NLP-2024-main/ML_Ankita_Practice/autogen_project/venv/include
+
+Name: libffi
+Description: Library supporting Foreign Function Interfaces
+Version: 3.4.4
+Libs: -L${toolexeclibdir} -lffi
+Cflags: -I${includedir}

@@ -1,0 +1,5 @@
+#!/Users/ankita/Documents/Udemy/Complete_ML_Bootcamp/Complete-Data-Science-With-Machine-Learning-And-NLP-2024-main/ML_Ankita_Practice/autogen_project/venv/bin/python3.10
+
+from idlelib.pyshell import main
+if __name__ == '__main__':
+    main()

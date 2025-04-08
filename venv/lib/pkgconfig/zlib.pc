@@ -1,0 +1,13 @@
+prefix=/Users/ankita/Documents/Udemy/Complete_ML_Bootcamp/Complete-Data-Science-With-Machine-Learning-And-NLP-2024-main/ML_Ankita_Practice/autogen_project/venv
+exec_prefix=/Users/ankita/Documents/Udemy/Complete_ML_Bootcamp/Complete-Data-Science-With-Machine-Learning-And-NLP-2024-main/ML_Ankita_Practice/autogen_project/venv
+libdir=/Users/ankita/Documents/Udemy/Complete_ML_Bootcamp/Complete-Data-Science-With-Machine-Learning-And-NLP-2024-main/ML_Ankita_Practice/autogen_project/venv/lib
+sharedlibdir=/Users/ankita/Documents/Udemy/Complete_ML_Bootcamp/Complete-Data-Science-With-Machine-Learning-And-NLP-2024-main/ML_Ankita_Practice/autogen_project/venv/lib
+includedir=/Users/ankita/Documents/Udemy/Complete_ML_Bootcamp/Complete-Data-Science-With-Machine-Learning-And-NLP-2024-main/ML_Ankita_Practice/autogen_project/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
