@@ -65,4 +65,4 @@ http://localhost:8501
 ### 6. Acknowledgements
 - **Groq**: For providing the AI-powered models used in this project.
 - **Streamlit**: For making it easy to build and share interactive web apps.
-- **Sunny Savita**: For providing valuable insights and resources. You can check out their YouTube channel [Sunny Savita YouTube Channel](https://www.youtube.com/channel/UCxyz123).
+- **Sunny Savita**: For providing valuable insights and resources. You can check out their YouTube channel [Sunny Savita YouTube Channel](https://www.youtube.com/@sunnysavita10).
