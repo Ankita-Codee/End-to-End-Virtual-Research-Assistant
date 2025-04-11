@@ -21,8 +21,8 @@ Follow these steps to set up and run the project:
 First, clone the repository to your local machine by running the following commands in your terminal:
 
 ```bash
-git clone <repository_url>
-cd <repository_name>
+git clone https://github.com/Ankita-Codee/End-to-End-Virtual-Research-Assistant
+cd End-to-End-Virtual-Research-Assistant
 ```
 
 ### 2. Install Dependencies
